@@ -1,1 +1,7 @@
-#README
+# Projeto de clusters utilizando Kmeans
+
+
+Organização deste repositório
+
+├── K-Means-Spotify.ipynb     -> contém os notebooks em formato de página html
+├── Arquivos png/             -> contém os graficos que fiz utilizando a biblioteca Plotly
